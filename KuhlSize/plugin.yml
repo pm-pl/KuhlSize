@@ -1,0 +1,14 @@
+name: KuhlSize
+author: TheKuhlMc
+main: tkm\kuhlsize\Main
+api: 4.0.0
+version: 1.0.0
+
+commands:
+  size:
+    description: "Ändert deine größe"
+    permission: "size.use"
+
+permissions:
+  size.use:
+    default: op
