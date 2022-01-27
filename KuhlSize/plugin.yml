@@ -6,7 +6,7 @@ version: 1.0.0
 
 commands:
   size:
-    description: "Ändert deine größe"
+    description: "Change youre size"
     permission: "size.use"
 
 permissions:
