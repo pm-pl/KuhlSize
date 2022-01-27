@@ -1,7 +1,7 @@
 maxsize: 10
 minsize: 1
-noplayer: "§cBenutze diesen Befehl im Spiel"
-noperms: "§cDu darfst das Nicht"
+noplayer: "§cUse this command ingame"
+noperms: "§cYou dont have Permission to do this"
 sizeusage: "§cUse /size <scale>"
 sizeistobig: "§cPls but a size from 1-10"
 sizenonumber: "§Use /size <scale>"
